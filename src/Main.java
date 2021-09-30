@@ -1,3 +1,7 @@
+/**
+ * @author Mathias Gnadlinger
+ * @version 1, 30.09.2021
+ */
 public class Main
 {
     public static void main(String[] args) {
@@ -11,8 +15,5 @@ public class Main
 
         th1.start();
         th2.start();
-
     }
-
-
 }
